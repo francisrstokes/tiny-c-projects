@@ -9,3 +9,4 @@ They aren't intended for drop-in production use, and aren't intended to cover ev
 - [State Machine](./state-machine): A simple library for implementing event driven state machines
 - [FIFO Queue](./thread-fifo): A circular fifo buffer and accompanying operations that can be used to communicate between threads
 - [Stretchy Buffers (aka Vectors)](./stretchy-buffers): An implementation of automatically resizable array that does not have a predefined or fixed size
+- [Creative Dereferencing](./deref/): A mini exploration of some of the interesting ways you can dereference a pointer
